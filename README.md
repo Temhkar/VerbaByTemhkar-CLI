@@ -1,6 +1,6 @@
 # VerbaByTemhkar CLI
 
-#### Video Demo: https://youtu.be/dCVc9IhLq5E?si=SqulyLHLcB4PXmMq
+#### Video Demo: 
 
 ## Overview / About the Project
 
